@@ -1,0 +1,25 @@
+20, Blade Runner
+10, t:Burton Agnes c:Grade I listed houses i:Burton Agnes
+10, USS Conolly
+5, b:sweden r:Pluxemburg
+20, boeing 341
+5, b:Football Manager i:2008
+5, Chongqing University
+10, b:Taxicab 1729
+10, t:It's All True c:films
+10, Chomsky Grammar
+10, String Quartet 14 Dvorak
+10, t:Zariski-Riemann c:Bernhard Riemann
+10, united nations security
+20, b:Californication Season
+20, t:Birdseye b:Tarantula
+10, b:level 42
+20, t:de la Torre b:Badajoz
+10, Cheiropterocephalus
+3, b:V for Vendetta i:2006
+5, young's modulus
+10, b:Speed of light c:Concepts in physics
+20, b:angus r:tories i:James Lee
+30, b:Taxicab 1729
+50, b:Marc Spector i:Marvel Comics c:1980 comics debuts
+100, Sudebnik

@@ -1,0 +1,4 @@
+Total size of index : 16 GB
+Number of files in which inverted index is split: 36 (26 + 10)
+Number of documents: 9,829,059
+Number of tokens in the inverted index: 25500385 in total
